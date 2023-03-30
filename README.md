@@ -1,7 +1,7 @@
 <img align="right" height="590em"
-src="https://raw.githubusercontent.com/gist/Ricardo962/6688bf4558aa02c23754b76b9701ecbd/raw/51e8214da6db15c9daa40eeb72fd34ec4783915f/githubcard.svg"/>
+src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844fcbbfd10/raw/1a5f07047c7465f3a2b81c7da311a5c7b2092658/githubcard2.svg"/>
 
-<h1 align="left">Hello guys<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">👋 I'm Édson Ricardo</h1>
+<h1 align="left">Hello guys👋, I'm Édson Ricardo</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo962&color=yellow" alt="Profile views" /></p>
 
