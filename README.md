@@ -20,7 +20,7 @@ src="https://raw.githubusercontent.com/gist/Ricardo962/6688bf4558aa02c23754b76b9
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)
 ![Github](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)
 
-<br><br>
+<br><br><br>
 
 ## o &nbsp;GitHub Analytics
 
