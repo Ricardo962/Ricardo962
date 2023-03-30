@@ -1,7 +1,7 @@
 <img align="right" height="590em"
 src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844fcbbfd10/raw/1a5f07047c7465f3a2b81c7da311a5c7b2092658/githubcard2.svg"/>
 
-<h1 align="left">Hello guys👋, I'm Édson Ricardo</h1>
+## Hello guys👋, I'm Édson Ricardo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ricardo962&color=yellow" alt="Profile views" /></p>
 
@@ -22,16 +22,16 @@ src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844f
 
 <br><br><br>
 
-## o &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo962&layoult=compact&theme=vision-friendly-dark" alt="Ricardo962's most
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo962&layoult=compact&theme=vision-friendly-dark" alt="Ricardo962's most
                                                                                                                                                    languages"/>
  </p>
  
  <br><br>
  
- ## &nbsp;Social Links
+ ## 📱 &nbsp;Social Links
  
  <p align="left" style="background:red">
  <a href="https://www.instagram.com/edson_ricardo16/" target="_blank">
