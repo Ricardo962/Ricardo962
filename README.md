@@ -15,9 +15,9 @@ src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844f
 
 ## 🛠  &nbsp;Tech Stack
 
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)
+![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)<br>
+![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=Javascript)<br>
 ![Github](https://img.shields.io/badge/-GITHUB-05122A?style=flat&logo=github)
 
 <br><br><br>
@@ -25,7 +25,7 @@ src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844f
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo962&layoult=compact&theme=vision-friendly-dark" alt="Ricardo962's most
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo962&layoult=compact&theme=vision-friendly-dark" alt="Ricardo962's most
                                                                                                                                                    languages"/>
  </p>
  
