@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/gist/Ricardo962/3dfd8646dc88a7b126b62844f
 - 💻☕ Web Front-end Developer 
 - 🕮 I'm currently studying at [Estácio de Sá](https://estacio.br/)
 - 🌱 I’m currently learning JavaScript
-- 💬 all of my projects are available at...
+- 💬 all of my projects are available at  <a href="https://ricardo962.github.io/projeto-portifolio/" target="_blank">Portifólio</a>
 - ⚡ Fun fact <strong>Coffe</strong>
 
 <br><br>
